@@ -1,11 +1,10 @@
 # Jhones Jhonatas
 
-FullStack Developer atuando no mercado com ferramentas como ReactJs, NodeJS, Docker, Git, Postgree e muito mais.
+BackEnd Developer atuando no mercado com ferramentas como ReactJs, NodeJS, Docker, Git, Postgree e muito mais.
 
 ### Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jhones.jhonatas@outlook.com.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jhonesjhonatas/)
 
 ### Habilidades
 
