@@ -36,7 +36,7 @@ Aprender o básico sobre contribuição no git e GitHub.
 
 Além disso, você também pode contribuir:
 
-⭐ Adicionando aos favoritos (**star**) 
+⭐ Adicionando aos favoritos (**star**) !
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/jhonesjhonatas/cpbsb6-git/graphs/contributors">
